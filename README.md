@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：数据范围
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 005 篇 - 百家乐Ai预测分析工具：刷新频率与真实事件数量的区别](https://github.com/TGmszrcsz/baccarat-ai-005) ｜ [下一篇：第 007 篇 - 百家乐Ai预测分析工具：处理跨平台同名房间的数据隔离](https://github.com/TGmszrcsz/baccarat-ai-007)
+
+<!-- article-chain:end -->
+
 修改筛选条件后，面板总数突然减少。本篇围绕“避免把当前筛选结果当成全部历史”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
